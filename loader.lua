@@ -1,6 +1,7 @@
 local SupportedGames = { 
     [292439477] = true, -- Phantom Forces
     [299659045] = true -- Phantom Forces Test Place
+    [15327728308] = true -- Aftermath
 }
 
 if not SupportedGames[game.PlaceId] then
